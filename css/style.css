@@ -323,7 +323,7 @@ h3 {
 	text-align: right;
 }
 #profile .profile2 .s04 {
-	padding-left: 80px;
+	margin-left: 80px;
 	transform: translateX(500px);
 	opacity: 0;
 	transition: transform 0.8s, opacity 0.8s;
@@ -347,7 +347,7 @@ h3 {
 		margin-left: 50px;
 	}
 	#profile .profile2 .s04 {
-		padding-left: 40px;
+		margin-left: 40px;
 	}
 	#profile .profile2 .s04 {
 		line-height: 30px;
@@ -383,7 +383,6 @@ h3 {
 	}
 	#profile .profile2 .s04 {
 		width: 100%;
-		padding-left: 0;
 	}
 }
 
