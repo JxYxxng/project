@@ -45,7 +45,10 @@ h3 {
 	position: relative;
 }
 #home h1 a {
+	position: absolute; left: 0; top: 0;
+	z-index: 100;
 	display: block;
+	width: 180px;
 	padding: 10px 25px;
 	color: #abd0ce;
 }
@@ -168,6 +171,9 @@ h3 {
 @media only screen and (max-width: 850px){
 }
 @media only screen and (max-width: 720px){
+	#home h1 a {
+		color: #fff;
+	}
 	#gnb {
 		display: none;
 	}
