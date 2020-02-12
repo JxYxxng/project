@@ -156,7 +156,7 @@ $(function(){
 		},
 		function(){
 		$("#gnb_fixed span").stop().fadeOut(300);
-		},
+		}
 	);
 
 
