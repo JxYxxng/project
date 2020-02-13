@@ -387,6 +387,9 @@ h3 {
 }
 
 /* 포트폴리오 */
+#portfolio .portfolio4 {
+	border-bottom: 1px solid #ccc;
+}
 div[class^=portfolio] .content {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -651,8 +654,8 @@ dd span {
 	font-size: 0.8em;
 }
 /* 포트폴리오4 */
-#portfolio .portfolio4 {
-	border-bottom: 1px solid #ccc;
+#portfolio .portfolio4 .content {
+	border-bottom: none;
 }
 #portfolio .portfolio4 .inner .color .color1 li:nth-child(1) .color_inner {
 	background-color: #e60013;
