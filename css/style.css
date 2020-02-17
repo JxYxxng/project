@@ -337,6 +337,14 @@ h3 {
 #profile .profile2 .s04 dd {
 	margin-bottom: 30px;
 }
+#profile .profile2 .s04 dd a {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+}
+#profile .profile2 .s04 dd a {
+	background: url(../images/mark.png) no-repeat center center;
+}
 #profile .profile2 p span {
 	padding-right: 20px;
 	color: #b6b6b6;
